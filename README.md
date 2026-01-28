@@ -1,5 +1,3 @@
-#
-![alt text](src/static/images/logo.jpg)
 
 ## Overview 🎥🤖
 
